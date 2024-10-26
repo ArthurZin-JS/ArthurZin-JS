@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Arthur L 🫡
 
-[![Blog](https://img.shields.io/website?label=arthurzinjs.xyz&style=for-the-badge&url=https://arthurzinjs.xyz/)](https://arthurzinjs.xyz/)
+[![Site](https://img.shields.io/website?label=arthurzinjs.xyz&style=for-the-badge&url=https://arthurzinjs.xyz/)](https://arthurzinjs.xyz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurzinjs/)
 
 ## Tecnologias que eu uso no meu dia
