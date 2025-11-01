@@ -15,3 +15,6 @@
 </div><br/>
 
 💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado em coisas novas 😊
+
+
+segredo https://ealmartini.bio.link
