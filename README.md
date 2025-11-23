@@ -18,3 +18,4 @@
 
 
 segredo https://ealmartini.bio.link
+https://ratonprogramas.com/adobe-lightroom-classic-v15-0-1/
